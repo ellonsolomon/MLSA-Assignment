@@ -27,11 +27,12 @@ const siteProps = {
   name: "Ellon Berhanu",
   title: "AI / ML Engineer | Researcher ",
   email: "ellon.solomon@gmail.com",
-  gitHub: "https://github.com/ellonsolomon/",
+  // gitHub: "https://github.com/ellonsolomon/ ",
+  gitHub: "ellonsolomon",
   // instagram: "microsoft",
-  linkedIn: "www.linkedin.com/in/ellonsolomon",
+  linkedIn: "ellonsolomon",
   // medium: "",
-  twitter: "www.twitter.com/ellonsolomon",
+  twitter: "ellonsolomon",
   // youTube: "Code",
 };
 
